@@ -1,0 +1,35 @@
+locations3 = [
+
+	{
+
+		name: 'locations.toronto',
+
+		roles: [
+
+			'locations.roles.race track.team owner',
+
+			'locations.roles.race track.player',
+
+		]
+
+	},
+
+
+	{
+
+		name: 'locations.cleveland',
+
+		roles: [
+
+			'locations.roles.sightseeing bus.team owner',
+
+			'locations.roles.sightseeing bus.quarterback',
+
+			'locations.roles.sightseeing bus.coach',
+
+		
+		]
+
+	}
+
+];
